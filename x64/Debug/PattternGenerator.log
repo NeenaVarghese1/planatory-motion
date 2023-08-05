@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  MainFrm.cpp
+  PattternGenerator.cpp
+  PattternGeneratorDoc.cpp
+  PattternGeneratorView.cpp
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(104,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(104,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(104,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(104,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(109,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(109,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(109,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(109,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(115,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(115,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(115,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(115,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(216,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(217,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  calendarbar.cpp
+  Generating Code...
+  PattternGenerator.vcxproj -> C:\Users\neena\Downloads\PatternGenerator-master\PatternGenerator-master\x64\Debug\PattternGenerator.exe
